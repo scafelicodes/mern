@@ -15,7 +15,7 @@ const Header = () => {
             className="navbar-brand text-uppercase p-0 m-0"
             onClick={() => window.scrollTo({ top: 0 })}
           >
-            eGamer
+            CPX.GG
           </h1>
         </Link>
 

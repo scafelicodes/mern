@@ -25,8 +25,7 @@
 }
 .info_content_title{
     display: flex;
-    align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 .info_content_title h2{
     font-size: 2rem;
